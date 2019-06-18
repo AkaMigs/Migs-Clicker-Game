@@ -1,0 +1,15 @@
+\\stg-highschool.sosd.7oaks.org\users\juan.beltran\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+\\stg-highschool.sosd.7oaks.org\users\juan.beltran\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Form1.resources
+\\stg-highschool.sosd.7oaks.org\users\juan.beltran\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+\\stg-highschool.sosd.7oaks.org\users\juan.beltran\visual studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.vbproj.GenerateResource.Cache
+Z:\Visual Studio 2012\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+Z:\Visual Studio 2012\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+Z:\Visual Studio 2012\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+Z:\Visual Studio 2012\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+Z:\Visual Studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Form1.resources
+Z:\Visual Studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+Z:\Visual Studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.vbproj.GenerateResource.Cache
+Z:\Visual Studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+Z:\Visual Studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+Z:\Visual Studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+Z:\Visual Studio 2012\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Form2.resources
